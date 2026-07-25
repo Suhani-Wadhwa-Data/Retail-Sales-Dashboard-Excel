@@ -39,7 +39,7 @@ These datasets were combined into a single master table for analysis.
 ---
 
 ##  Project Workflow
-
+---
 Raw Data 
   ↓
 Data Cleaning
