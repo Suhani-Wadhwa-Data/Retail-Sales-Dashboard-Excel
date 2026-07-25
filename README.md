@@ -4,13 +4,13 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Developed an interactive Retail Sales Dashboard using the Sample Superstore dataset. The project involved cleaning and integrating data from multiple sheets, creating calculated fields, analyzing business performance with Pivot Tables, and designing a dynamic dashboard for decision-making.
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 - Microsoft Excel
 - Data Cleaning
@@ -26,7 +26,7 @@ Developed an interactive Retail Sales Dashboard using the Sample Superstore data
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The project uses the **Sample Superstore** dataset containing three separate sheets :
 
@@ -38,28 +38,25 @@ These datasets were combined into a single master table for analysis.
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
-```
 Raw Data
-↓
+  |
 Data Cleaning
-↓
+  |
 Data Integration
-↓
+  |
 Feature Engineering
-↓
+  |
 Pivot Table Analysis
-↓
-Interactive Dashboard
-↓
+  |
+Interactive Dashboard 
+  |
 Business Insights
-
-```
 
 ---
 
-## ⚙️ Key Enhancements / Feature Engineering
+## Key Enhancements / Feature Engineering
 
 Created additional analytical columns to improve reporting:
 
@@ -72,7 +69,7 @@ Created additional analytical columns to improve reporting:
 
 ---
 
-## 📊 Dashboard KPIs
+## Dashboard KPIs
 
 - Total Sales
 - Total Profit
@@ -82,7 +79,7 @@ Created additional analytical columns to improve reporting:
 
 ---
 
-## 📈 Business Questions Answered
+## Business Questions Answered
 
 - Which year generated the highest sales?
 - Which category is the most profitable?
@@ -93,7 +90,7 @@ Created additional analytical columns to improve reporting:
 
 ---
 
-# 💡 Key Business Insights
+# Key Business Insights
 
 The dashboard enables users to identify:
 
@@ -107,7 +104,7 @@ The dashboard enables users to identify:
 
 ---
 
-## 🖼️ Project Screenshots
+## Project Screenshots
 
 ### Dashboard
 ![Dashboard](Dashboard.png)
@@ -126,8 +123,12 @@ The dashboard enables users to identify:
 
 ---
 
-## 🚀 FUTURE IMPROVEMENTS
+## FUTURE IMPROVEMENTS
 
 - Rebuild the dashboard in Power BI
 - Perform SQL analysis on the same dataset
-- Build advanced business KPIs and predictive sales analyis 
+- Build advanced business KPIs and predictive sales analyis
+
+---
+
+Thank you for exploring this project. Feedback and suggestions are always welcome.
