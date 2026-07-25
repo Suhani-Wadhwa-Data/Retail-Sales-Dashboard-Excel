@@ -40,18 +40,18 @@ These datasets were combined into a single master table for analysis.
 
 ##  Project Workflow
 
-Raw Data
-  |
+Raw Data 
+  ↓
 Data Cleaning
-  |
+  ↓
 Data Integration
-  |
+  ↓
 Feature Engineering
-  |
+  ↓
 Pivot Table Analysis
-  |
+  ↓
 Interactive Dashboard 
-  |
+  ↓
 Business Insights
 
 ---
