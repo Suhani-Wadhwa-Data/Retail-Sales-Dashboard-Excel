@@ -113,14 +113,6 @@ The dashboard enables users to identify:
 
 ![Pivot Tables](Pivot_Tables.png)
 
-### Processed Dataset
-
-![Processed Data](Sample_Superstore_Processed_Data.png)
-
-### Raw Dataset
-
-![Raw Data](Sample_Superstore_Raw_Data.png)
-
 ---
 
 ## FUTURE IMPROVEMENTS
