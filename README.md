@@ -55,6 +55,8 @@ Interactive Dashboard
 Business Insights
 ---
 
+---
+
 ## Key Enhancements / Feature Engineering
 
 Created additional analytical columns to improve reporting:
