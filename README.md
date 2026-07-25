@@ -40,19 +40,13 @@ These datasets were combined into a single master table for analysis.
 
 ##  Project Workflow
 ---
-Raw Data
-↓
-Data Cleaning 
-↓   
-Data Integration 
-↓   
-Feature Engineering 
-↓   
-Pivot Table Analysis 
-↓   
-Interactive Dashboard 
-↓   
-Business Insights
+1. Raw Data 
+2. Data Cleaning   
+3. Data Integration   
+4. Feature Engineering   
+5. Pivot Table Analysis    
+6. Interactive Dashboard  
+7. Business Insights
 
 ---
 
